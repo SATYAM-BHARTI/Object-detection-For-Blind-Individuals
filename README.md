@@ -1,1 +1,1 @@
-# Object-detection-For-Blind-Individuals
+# Object-Detection-and-Assisting-for-Blind-individuals
